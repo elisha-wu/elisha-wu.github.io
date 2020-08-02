@@ -5,8 +5,8 @@ body {
   padding: 0;
   border: 0;
   color: #333;
-  font-size: 75%;
-  line-height: 1.7em;
+  font-size: 1rem;
+  line-height: 1.6rem;
   font-family: Verdana, sans-serif;
   background: #eee;  /*background: #eee url(../img/bg.jpg) top repeat-x;*/
   text-align: center;
@@ -35,8 +35,8 @@ body {
 
 #crumbs{margin-left:50px;padding-bottom:20px;}
 
-#mainLft{float:left;display:inline;width:255px;margin-left:25px;padding-top:0px;text-align:center;}
-#mainRgt{float:right;display:inline;width:420px;margin-right:25px;}
+#mainLft{float:left;display:inline;width:215px;margin-left:25px;padding-top:0px;text-align:center;}
+#mainRgt{float:right;display:inline;width:460px;margin-right:25px;}
 
 #categories ul{list-style:none;padding-top:40px;margin:0;line-height:20px;font-size:20px;text-align:center;}
 #categories li{padding-bottom:40px;}
@@ -85,21 +85,35 @@ visibility: hidden;	     /* further ensures the period is not visible */
 }
 
 h1 {
-  font-weight: normal;
-  font-size: 32px;
-  line-height: 35px;
-  letter-spacing: 0px;
+  font-size: 2rem;
+  line-height: 2rem;
+  padding-top: 1rem;
   font-family: georgia,serif;  
 }
 
 h1.quote {
   color: #900;
   text-align: left;
-  margin-left: 10px;
+  margin-left: 1rem;
+  line-height: 2.5rem;
   font-weight: bold;
-  font-size: 28px;
-  line-height: 24px;
-  letter-spacing: -1px;
+  font-family: georgia,serif;  
+}
+
+h2 {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  padding-top: 1rem;
+  font-family: georgia,serif;  
+}
+
+h3 {
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  padding-top: 1rem;
   font-family: georgia,serif;  
 }
 
@@ -108,17 +122,11 @@ h3.byline {
   font-style: italic;
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 0px;
   font-family: georgia,serif;  
 }
 
-h2 {
-  font-weight: normal;
-  font-style: italic;
-  font-size: 24px;
-  line-height: 30px;
-  letter-spacing: -1px;
-  font-family: georgia,serif;  
+p {
+  margin: 10px 0;
 }
 
 a, a:link, a:visited, a:active{
