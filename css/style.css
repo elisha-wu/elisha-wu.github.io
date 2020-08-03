@@ -33,7 +33,7 @@ body {
 #splashpic{float:left;}
 #frontpage_text{float:right;padding:50px 50px 0 0;}
 
-#crumbs{margin-left:50px;padding-bottom:20px;}
+#crumbs{margin-left:50px; margin-right: 50px; padding-bottom:20px;}
 
 #mainLft{float:left;display:inline;width:215px;margin-left:25px;padding-top:0px;text-align:center;}
 #mainRgt{float:right;display:inline;width:460px;margin-right:25px;}
@@ -130,10 +130,8 @@ p {
 }
 
 a, a:link, a:visited, a:active{
-  font-weight: bold;
-  font-size: 1.1em;
-  font-family: georgia;
   color: #69C;
+  text-decoration: none;
 }
 
 a:hover{
@@ -142,8 +140,8 @@ a:hover{
 
 /*a.link_book{padding:3px 0 3px 25px;background: url(../img/book.png) left no-repeat;}
 a.link_video{padding:3px 0 3px 25px;background: url(../img/video.png) left no-repeat;}*/
-a.download_book{padding:3px 0 3px 20px;background: url(../img/download_book.png) left no-repeat;font-size:1.5em;}
-a.download_video{padding:3px 0 3px 20px;background: url(../img/download_video.png) left no-repeat;font-size:1.5em;}
+a.download_book{padding:3px 0 3px 20px;background: url(../img/download_book.png) left no-repeat;font-size:1rem;}
+a.download_video{padding:3px 0 3px 20px;background: url(../img/download_video.png) left no-repeat;font-size:1rem;}
 a.bullet_prev{padding:3px 0 3px 20px;background: url(../img/bullet_prev.png) left no-repeat;}
 a.bullet_next{padding:3px 20px 3px 0;background: url(../img/bullet_next.png) right no-repeat;}
 a.donate{padding:3px 0 3px 22px;background: url(../img/heart.png) left no-repeat;}
