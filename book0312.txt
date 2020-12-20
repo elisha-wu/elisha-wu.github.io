@@ -33,52 +33,37 @@
       <div id="mainBot" class="clearfix">
       
         <div id="crumbs">
-          <a href="index.html">主頁 Home</a> &#8594; <a href="books.html">求真文選目錄 Books</a> &#8594; 律法時代與恩典時代 Era of Law and Era of Grace
+          <a href="index.html">主頁 Home</a> &#8594; <a href="books.html">求真文選目錄 Books</a> &#8594; 五十靈筵 (二)   Fifty Sermons by Well-known Chinese Preachers (2)   
         </div>
         
         <!--START left side-->
         <div id="mainLft">
-          <img src="img/book0310.jpg" alt="Era of Law and Era of Grace">
+          <img src="img/book0312.jpg" alt="Fifty Sermons by Well-known Chinese Preachers (2) ">
         </div>
         <!--END left side-->
         
         <!--START right side-->
         <div id="mainRgt">
-          <h1>十&nbsp;&nbsp;&nbsp;律法時代與恩典時代<br />Era of Law and Era of Grace</h1>
+          <h1>十一&nbsp;&nbsp;&nbsp;五十靈筵 (二) <br />Fifty Sermons by Well-known Chinese Preachers (2)</h1>
           <!--<h3 class="byline">Subtitle or Author</h3>-->
           <div id="toc">
             <ul>
-              <li>1. 先談律法時代</li>
-              <li>2. 把恩典時代帶進</li>
-              <li>3. 神為什麼設立律法</li>
-              <li>4. 律法的作用</li>
-              <li>5. 人若想靠律法稱義 </li>
-              <li>6. 律法的真正目的</li>
-              <li>7. 基督已經來到</li>
-              <li>8. 律法被廢棄了嗎?<li>
-              <li>9. 基督徒守律法嗎?</li>
-              <li>10. 我們不需要律法，但要保存誡命</li>
-              <li>11. 教會可否用十誡</li>
-              <li>12. 張冠不應李戴</li>
-              <li>13. 何以有損</li>
-              <li>14. 信心與行為</li>
-              <li>15. 一切都是恩典</li>
-              <li>16. 我們生活在恩典時代裏</li>
-              <li>17. 律法與恩典的比較</li>
+              <li> </li>
+
             </ul>
           </div>
           
           <!--START download button-->
           <div id="downloadBut">
-            <a href="files/EraofLawandEraofGrace_t.pdf" title="Download" class="download_book">繁體下載 Traditional (PDF, 856KB)<span></span></a><br/>
-            <a href="files/EraofLawandEraofGrace_s.pdf" title="Download" class="download_book">簡体下載 Simplified (PDF, 949KB)<span></span></a>
+            <a href="files/FiftySermonsTwo_t.pdf" title="Download" class="download_book">繁體下載 Traditional (PDF, 2953KB)<span></span></a><br/>
+            <!--<a href="files/EraofLawandEraofGrace_s.pdf" title="Download" class="download_book">簡体下載 Simplified (PDF, 949KB)<span></span></a>-->
           </div>
           <!--END download button-->
           
           <div id="scroller">
             <ul>
-              <li><a href="book0309.html" title="Previous" class="bullet_prev">上一本書 Previous<span></span></a></li>
-              <li><a href="book0310.html" title="Next" class="bullet_next">下一本書 Next<span></span></a></li>
+              <li><a href="book0311.html" title="Previous" class="bullet_prev">上一本書 Previous<span></span></a></li>
+              <li><a href="book0313.html" title="Next" class="bullet_next">下一本書 Next<span></span></a></li>
             </ul>
           </div>
           
